@@ -25,9 +25,9 @@ I love building interactive web applications and working on **AI-driven projects
 3. Want to collaborate? Contact me via the portfolio!
 
 ## 🔗 Connect with Me
-📧 Email: [shubham@example.com](mailto:shubham@example.com)  
-💼 LinkedIn: [linkedin.com/in/shubham-lathija](https://www.linkedin.com/in/shubham-lathija/)  
-🐙 GitHub: [github.com/ShubhamLathiya](https://github.com/ShubhamLathiya)
+📧 Email: [shubhamlathiya2004@gmail.com](mailto:shubhamlathiya2004@gmail.com)  
+💼 LinkedIn: [linkedin.com/in/shubham-lathiya](https://www.linkedin.com/in/shubham-lathiya-46bb41217/)  
+🐙 GitHub: [github.com/ShubhamLathiya](https://github.com/shubhamlathiya)
 
 ---
 
