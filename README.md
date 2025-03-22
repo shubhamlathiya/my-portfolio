@@ -1,4 +1,4 @@
-# 💻 Shubham Lathija - Portfolio
+# 💻 Shubham Lathiya - Portfolio
 
 Welcome to my personal portfolio! 🚀  
 Check it out here: [My Portfolio](https://shubhamlathiya.github.io/my-portfolio/)
