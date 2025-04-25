@@ -17,7 +17,6 @@ I love building interactive web applications and working on **AI-driven projects
 - **Frontend:** HTML, CSS, JavaScript
 - **Backend:** Java, Spring Boot
 - **Database:** MySQL, MongoDB
-- **Frameworks:** React.js, Next.js
 
 ## 📂 How to Use
 1. Visit my portfolio: [Click Here](https://shubhamlathiya.github.io/my-portfolio/)
